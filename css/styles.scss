@@ -1,4 +1,14 @@
 /* Styling */
+
+@import "normalize";
+@import "lg-transitions";
+@import "lightgallery";
 body {
-    background: red;
+    background: #f0d7d7;
+}
+figure {
+    background: orange;
+    padding: 1em;
+    width: 300px;
+    
 }
