@@ -2592,17 +2592,35 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   transition: left 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s; }
 
 /*# sourceMappingURL=lightgallery.css.map */
-/* line 6, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/styles.scss */
+/* line 7, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/styles.scss */
 body {
   background: #f0d7d7; }
 
-/* line 9, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/styles.scss */
+/* line 10, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/styles.scss */
 figure {
   background: orange;
   padding: 1em;
-  width: 300px; }
+  width: 300px;
+  text-align: center; }
 
-/* line 16, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/styles.scss */
+/* line 18, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/styles.scss */
+main {
+  background: #9b9bf0;
+  margin: 0 auto;
+  width: 90%;
+  text-align: center; }
+
+/* line 24, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/styles.scss */
+main header img {
+  max-height: 400px;
+  width: 100%;
+  max-width: 100%; }
+
+/* line 30, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/styles.scss */
+figure img {
+  box-shadow: 2px 2px 2px gray; }
+
+/* line 33, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/styles.scss */
 .posterized {
   width: 100px;
   height: auto; }
