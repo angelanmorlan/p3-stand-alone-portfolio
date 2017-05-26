@@ -14,3 +14,7 @@ $('figure').lightGallery({
     selector: 'a',
     mode: 'lg-lollipop'
 });
+/*$('main').tubular({
+    fitToBackground: true,
+    videoId: '116398560'
+});*/
