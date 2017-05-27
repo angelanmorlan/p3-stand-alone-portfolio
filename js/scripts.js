@@ -1,8 +1,8 @@
 // Scripts
 
-var img0 = 'https://unsplash.it/600/300?image=1';
-var img1 = 'https://unsplash.it/600/300?image=3';
-var img1 = 'https://unsplash.it/600/300?image=7';
+var img0 = 'https://raw.githubusercontent.com/angelanmorlan/p3-stand-alone-portfolio/master/img/Angela%20Chris-73.jpg';
+var img1 = 'https://raw.githubusercontent.com/angelanmorlan/p3-stand-alone-portfolio/master/img/Angela%20Chris-63.jpg';
+var img1 = 'https://raw.githubusercontent.com/angelanmorlan/p3-stand-alone-portfolio/master/img/Angela%20Chris-66.jpg';
 
 var maxRand = 3;
 var randNum = Math.floor( Math.random() * maxRand );
@@ -10,11 +10,14 @@ console.log(randNum);
 //Swap Out Banner
 $('header img').attr('src', eval( 'img' + randNum ) );
 
-$('figure').lightGallery({
-    selector: 'a',
-    mode: 'lg-lollipop'
+$(document).ready(function(){
+    $('#lightgallery').lightGallery({
+        pager: true,
+        selector: 'a',
+        mode: 'lg-lollipop'
+    });
+    $('.cont').tubular({
+        videoId: 'DFXzbdjOwco',
+        mute: true
+    });
 });
-/*$('main').tubular({
-    fitToBackground: true,
-    videoId: '116398560'
-});*/
