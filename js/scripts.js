@@ -8,16 +8,17 @@ var maxRand = 3;
 var randNum = Math.floor( Math.random() * maxRand );
 console.log(randNum);
 //Swap Out Banner
-$('header img').attr('src', eval( 'img' + randNum ) );
+
 
 $(document).ready(function(){
     $('#lightgallery').lightGallery({
         pager: true,
-        selector: 'a',
+        //selector: 'a',
         mode: 'lg-lollipop'
     });
     $('.cont').tubular({
         videoId: 'DFXzbdjOwco',
         mute: true
     });
+    $('header img').attr('src', eval( 'img' + randNum ) );
 });

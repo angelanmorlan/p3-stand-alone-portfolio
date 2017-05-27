@@ -2489,13 +2489,14 @@ body {
   background: #f0d7d7;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
-/* line 12, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
-figure {
-  background: orange;
-  padding: 1em;
-  width: 300px;
-  text-align: center; }
-
+/*figure {
+    background: orange;
+    padding: 1em;
+    width: 300px;
+    text-align: center;
+    
+    
+}*/
 /* line 20, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .small {
   font-size: 21px;
@@ -2506,23 +2507,22 @@ figure {
 /* line 26, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .cont {
   margin: 0 auto;
-  width: 90%;
   text-align: center; }
 
-/* line 32, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 31, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 main header img {
   width: 100%;
   max-width: 100%; }
 
-/* line 38, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 37, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 figure img {
   box-shadow: 2px 2px 2px gray; }
 
-/* line 41, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 40, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 header {
   text-align: center; }
 
-/* line 44, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 43, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 header h1 {
   font-family: 'Yesteryear', cursive;
   font-size: 64px;
@@ -2531,7 +2531,7 @@ header h1 {
   position: relative;
   top: -113px; }
 
-/* line 53, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 52, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .demo-gallery > ul {
   display: flex;
   flex-flow: wrap;
@@ -2541,7 +2541,7 @@ header h1 {
   opacity: .7;
   background: #c7c7f1; }
 
-/* line 63, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 62, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .demo-gallery > ul > li {
   margin-bottom: 15px;
   margin-top: 15px;
@@ -2549,7 +2549,7 @@ header h1 {
   margin-right: 15px;
   list-style: outside none none; }
 
-/* line 72, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 71, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .demo-gallery > ul > li a {
   border: 4px solid #fff;
   border-radius: 4px;
@@ -2557,7 +2557,7 @@ header h1 {
   position: relative;
   float: left; }
 
-/* line 80, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 79, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .demo-gallery > ul > li a > img {
   -webkit-transition: -webkit-transform 0.15s ease 0s;
   -moz-transition: -moz-transform 0.15s ease 0s;
@@ -2568,16 +2568,16 @@ header h1 {
   height: 100%;
   width: 100%; }
 
-/* line 91, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 90, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .demo-gallery > ul > li a:hover > img {
   -webkit-transform: scale3d(1.1, 1.1, 1.1);
   transform: scale3d(1.1, 1.1, 1.1); }
 
-/* line 96, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 95, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .demo-gallery > ul > li a:hover .demo-gallery-poster > img {
   opacity: 1; }
 
-/* line 100, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 99, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .demo-gallery > ul > li a .demo-gallery-poster {
   background-color: rgba(0, 0, 0, 0.1);
   bottom: 0;
@@ -2589,7 +2589,7 @@ header h1 {
   -o-transition: background-color 0.15s ease 0s;
   transition: background-color 0.15s ease 0s; }
 
-/* line 112, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 111, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .demo-gallery > ul > li a .demo-gallery-poster > img {
   left: 50%;
   margin-left: -10px;
@@ -2601,7 +2601,7 @@ header h1 {
   -o-transition: opacity 0.3s ease 0s;
   transition: opacity 0.3s ease 0s; }
 
-/* line 124, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 123, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .demo-gallery > ul > li a:hover .demo-gallery-poster {
   background-color: rgba(38, 84, 222, 0.2); }
 
