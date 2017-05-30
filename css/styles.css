@@ -7,7 +7,7 @@
  * 2. Prevent adjustments of font size after orientation changes in
  *    IE on Windows Phone and in iOS.
  */
-/* line 12, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 12, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 html {
   line-height: 1.15;
   /* 1 */
@@ -21,7 +21,7 @@ html {
 /**
  * Add the correct display in IE 9-.
  */
-/* line 25, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 25, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 article,
 aside,
 footer,
@@ -34,7 +34,7 @@ section {
  * Correct the font size and margin on `h1` elements within `section` and
  * `article` contexts in Chrome, Firefox, and Safari.
  */
-/* line 39, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 39, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 h1 {
   font-size: 2em;
   margin: 0.67em 0; }
@@ -45,7 +45,7 @@ h1 {
  * Add the correct display in IE 9-.
  * 1. Add the correct display in IE.
  */
-/* line 52, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 52, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 figcaption,
 figure,
 main {
@@ -55,7 +55,7 @@ main {
 /**
  * Add the correct margin in IE 8.
  */
-/* line 62, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 62, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 figure {
   margin: 1em 40px; }
 
@@ -63,7 +63,7 @@ figure {
  * 1. Add the correct box sizing in Firefox.
  * 2. Show the overflow in Edge and IE.
  */
-/* line 71, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 71, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 hr {
   box-sizing: content-box;
   /* 1 */
@@ -76,7 +76,7 @@ hr {
  * 1. Correct the inheritance and scaling of font size in all browsers.
  * 2. Correct the odd `em` font sizing in all browsers.
  */
-/* line 82, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 82, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 pre {
   font-family: monospace, monospace;
   /* 1 */
@@ -89,7 +89,7 @@ pre {
  * 1. Remove the gray background on active links in IE 10.
  * 2. Remove gaps in links underline in iOS 8+ and Safari 8+.
  */
-/* line 95, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 95, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 a {
   background-color: transparent;
   /* 1 */
@@ -100,7 +100,7 @@ a {
  * 1. Remove the bottom border in Chrome 57- and Firefox 39-.
  * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
  */
-/* line 105, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 105, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 abbr[title] {
   border-bottom: none;
   /* 1 */
@@ -112,7 +112,7 @@ abbr[title] {
 /**
  * Prevent the duplicate application of `bolder` by the next rule in Safari 6.
  */
-/* line 115, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 115, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 b,
 strong {
   font-weight: inherit; }
@@ -120,7 +120,7 @@ strong {
 /**
  * Add the correct font weight in Chrome, Edge, and Safari.
  */
-/* line 124, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 124, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 b,
 strong {
   font-weight: bolder; }
@@ -129,7 +129,7 @@ strong {
  * 1. Correct the inheritance and scaling of font size in all browsers.
  * 2. Correct the odd `em` font sizing in all browsers.
  */
-/* line 134, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 134, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 code,
 kbd,
 samp {
@@ -141,14 +141,14 @@ samp {
 /**
  * Add the correct font style in Android 4.3-.
  */
-/* line 145, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 145, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 dfn {
   font-style: italic; }
 
 /**
  * Add the correct background and color in IE 9-.
  */
-/* line 153, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 153, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 mark {
   background-color: #ff0;
   color: #000; }
@@ -156,7 +156,7 @@ mark {
 /**
  * Add the correct font size in all browsers.
  */
-/* line 162, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 162, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 small {
   font-size: 80%; }
 
@@ -164,7 +164,7 @@ small {
  * Prevent `sub` and `sup` elements from affecting the line height in
  * all browsers.
  */
-/* line 171, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 171, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 sub,
 sup {
   font-size: 75%;
@@ -172,11 +172,11 @@ sup {
   position: relative;
   vertical-align: baseline; }
 
-/* line 179, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 179, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 sub {
   bottom: -0.25em; }
 
-/* line 183, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 183, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 sup {
   top: -0.5em; }
 
@@ -185,7 +185,7 @@ sup {
 /**
  * Add the correct display in IE 9-.
  */
-/* line 194, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 194, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 audio,
 video {
   display: inline-block; }
@@ -193,7 +193,7 @@ video {
 /**
  * Add the correct display in iOS 4-7.
  */
-/* line 203, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 203, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 audio:not([controls]) {
   display: none;
   height: 0; }
@@ -201,14 +201,14 @@ audio:not([controls]) {
 /**
  * Remove the border on images inside links in IE 10-.
  */
-/* line 212, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 212, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 img {
   border-style: none; }
 
 /**
  * Hide the overflow in IE.
  */
-/* line 220, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 220, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 svg:not(:root) {
   overflow: hidden; }
 
@@ -217,7 +217,7 @@ svg:not(:root) {
 /**
  * Remove the margin in Firefox and Safari.
  */
-/* line 231, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 231, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 button,
 input,
 optgroup,
@@ -229,7 +229,7 @@ textarea {
  * Show the overflow in IE.
  * 1. Show the overflow in Edge.
  */
-/* line 244, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 244, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 button,
 input {
   /* 1 */
@@ -239,7 +239,7 @@ input {
  * Remove the inheritance of text transform in Edge, Firefox, and IE.
  * 1. Remove the inheritance of text transform in Firefox.
  */
-/* line 254, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 254, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 button,
 select {
   /* 1 */
@@ -250,7 +250,7 @@ select {
  *    controls in Android 4.
  * 2. Correct the inability to style clickable types in iOS and Safari.
  */
-/* line 265, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 265, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 button,
 html [type="button"],
 [type="reset"],
@@ -261,7 +261,7 @@ html [type="button"],
 /**
  * Remove the inner border and padding in Firefox.
  */
-/* line 276, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 276, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 button::-moz-focus-inner,
 [type="button"]::-moz-focus-inner,
 [type="reset"]::-moz-focus-inner,
@@ -272,7 +272,7 @@ button::-moz-focus-inner,
 /**
  * Restore the focus styles unset by the previous rule.
  */
-/* line 288, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 288, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 button:-moz-focusring,
 [type="button"]:-moz-focusring,
 [type="reset"]:-moz-focusring,
@@ -285,7 +285,7 @@ button:-moz-focusring,
  * 3. Remove the padding so developers are not caught out when they zero out
  *    `fieldset` elements in all browsers.
  */
-/* line 302, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 302, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 legend {
   box-sizing: border-box;
   /* 1 */
@@ -304,7 +304,7 @@ legend {
  * 1. Add the correct display in IE 9-.
  * 2. Add the correct vertical alignment in Chrome, Firefox, and Opera.
  */
-/* line 316, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 316, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 progress {
   display: inline-block;
   /* 1 */
@@ -314,7 +314,7 @@ progress {
 /**
  * Remove the default vertical scrollbar in IE.
  */
-/* line 325, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 325, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 textarea {
   overflow: auto; }
 
@@ -322,7 +322,7 @@ textarea {
  * 1. Add the correct box sizing in IE 10-.
  * 2. Remove the padding in IE 10-.
  */
-/* line 334, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 334, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 [type="checkbox"],
 [type="radio"] {
   box-sizing: border-box;
@@ -333,7 +333,7 @@ textarea {
 /**
  * Correct the cursor style of increment and decrement buttons in Chrome.
  */
-/* line 344, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 344, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 [type="number"]::-webkit-inner-spin-button,
 [type="number"]::-webkit-outer-spin-button {
   height: auto; }
@@ -342,7 +342,7 @@ textarea {
  * 1. Correct the odd appearance in Chrome and Safari.
  * 2. Correct the outline style in Safari.
  */
-/* line 354, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 354, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 [type="search"] {
   -webkit-appearance: textfield;
   /* 1 */
@@ -352,7 +352,7 @@ textarea {
 /**
  * Remove the inner padding and cancel buttons in Chrome and Safari on macOS.
  */
-/* line 363, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 363, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 [type="search"]::-webkit-search-cancel-button,
 [type="search"]::-webkit-search-decoration {
   -webkit-appearance: none; }
@@ -361,7 +361,7 @@ textarea {
  * 1. Correct the inability to style clickable types in iOS and Safari.
  * 2. Change font properties to `inherit` in Safari.
  */
-/* line 373, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 373, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 ::-webkit-file-upload-button {
   -webkit-appearance: button;
   /* 1 */
@@ -374,7 +374,7 @@ textarea {
  * Add the correct display in IE 9-.
  * 1. Add the correct display in Edge, IE, and Firefox.
  */
-/* line 386, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 386, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 details,
 menu {
   display: block; }
@@ -382,7 +382,7 @@ menu {
 /*
  * Add the correct display in all browsers.
  */
-/* line 395, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 395, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 summary {
   display: list-item; }
 
@@ -391,14 +391,14 @@ summary {
 /**
  * Add the correct display in IE 9-.
  */
-/* line 406, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 406, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 canvas {
   display: inline-block; }
 
 /**
  * Add the correct display in IE.
  */
-/* line 414, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 414, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 template {
   display: none; }
 
@@ -407,184 +407,184 @@ template {
 /**
  * Add the correct display in IE 10-.
  */
-/* line 425, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_normalize.css */
+/* line 425, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_normalize.css */
 [hidden] {
   display: none; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-zoom-in .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-zoom-in .lg-item.lg-next-slide, .lg-css3.lg-zoom-in .lg-item.lg-prev-slide {
   -webkit-transform: scale3d(1.3, 1.3, 1.3);
   transform: scale3d(1.3, 1.3, 1.3); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-zoom-in .lg-item.lg-current {
   -webkit-transform: scale3d(1, 1, 1);
   transform: scale3d(1, 1, 1);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-zoom-in .lg-item.lg-current, .lg-css3.lg-zoom-in .lg-item.lg-next-slide, .lg-css3.lg-zoom-in .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-zoom-in-big .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-zoom-in-big .lg-item.lg-next-slide, .lg-css3.lg-zoom-in-big .lg-item.lg-prev-slide {
   -webkit-transform: scale3d(2, 2, 2);
   transform: scale3d(2, 2, 2); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-zoom-in-big .lg-item.lg-current {
   -webkit-transform: scale3d(1, 1, 1);
   transform: scale3d(1, 1, 1);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-zoom-in-big .lg-item.lg-current, .lg-css3.lg-zoom-in-big .lg-item.lg-next-slide, .lg-css3.lg-zoom-in-big .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-zoom-out .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-zoom-out .lg-item.lg-next-slide, .lg-css3.lg-zoom-out .lg-item.lg-prev-slide {
   -webkit-transform: scale3d(0.7, 0.7, 0.7);
   transform: scale3d(0.7, 0.7, 0.7); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-zoom-out .lg-item.lg-current {
   -webkit-transform: scale3d(1, 1, 1);
   transform: scale3d(1, 1, 1);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-zoom-out .lg-item.lg-current, .lg-css3.lg-zoom-out .lg-item.lg-next-slide, .lg-css3.lg-zoom-out .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-zoom-out-big .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-zoom-out-big .lg-item.lg-next-slide, .lg-css3.lg-zoom-out-big .lg-item.lg-prev-slide {
   -webkit-transform: scale3d(0, 0, 0);
   transform: scale3d(0, 0, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-zoom-out-big .lg-item.lg-current {
   -webkit-transform: scale3d(1, 1, 1);
   transform: scale3d(1, 1, 1);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-zoom-out-big .lg-item.lg-current, .lg-css3.lg-zoom-out-big .lg-item.lg-next-slide, .lg-css3.lg-zoom-out-big .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-zoom-out-in .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-zoom-out-in .lg-item.lg-prev-slide {
   -webkit-transform: scale3d(0, 0, 0);
   transform: scale3d(0, 0, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-zoom-out-in .lg-item.lg-next-slide {
   -webkit-transform: scale3d(2, 2, 2);
   transform: scale3d(2, 2, 2); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-zoom-out-in .lg-item.lg-current {
   -webkit-transform: scale3d(1, 1, 1);
   transform: scale3d(1, 1, 1);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-zoom-out-in .lg-item.lg-current, .lg-css3.lg-zoom-out-in .lg-item.lg-next-slide, .lg-css3.lg-zoom-out-in .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-zoom-in-out .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-zoom-in-out .lg-item.lg-prev-slide {
   -webkit-transform: scale3d(2, 2, 2);
   transform: scale3d(2, 2, 2); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-zoom-in-out .lg-item.lg-next-slide {
   -webkit-transform: scale3d(0, 0, 0);
   transform: scale3d(0, 0, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-zoom-in-out .lg-item.lg-current {
   -webkit-transform: scale3d(1, 1, 1);
   transform: scale3d(1, 1, 1);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-zoom-in-out .lg-item.lg-current, .lg-css3.lg-zoom-in-out .lg-item.lg-next-slide, .lg-css3.lg-zoom-in-out .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-soft-zoom .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-soft-zoom .lg-item.lg-prev-slide {
   -webkit-transform: scale3d(1.1, 1.1, 1.1);
   transform: scale3d(1.1, 1.1, 1.1); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-soft-zoom .lg-item.lg-next-slide {
   -webkit-transform: scale3d(0.9, 0.9, 0.9);
   transform: scale3d(0.9, 0.9, 0.9); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-soft-zoom .lg-item.lg-current {
   -webkit-transform: scale3d(1, 1, 1);
   transform: scale3d(1, 1, 1);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-soft-zoom .lg-item.lg-current, .lg-css3.lg-soft-zoom .lg-item.lg-next-slide, .lg-css3.lg-soft-zoom .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-scale-up .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-scale-up .lg-item.lg-next-slide, .lg-css3.lg-scale-up .lg-item.lg-prev-slide {
   -moz-transform: scale3d(0.8, 0.8, 0.8) translate3d(0, 10%, 0);
   -o-transform: scale3d(0.8, 0.8, 0.8) translate3d(0, 10%, 0);
@@ -592,7 +592,7 @@ template {
   -webkit-transform: scale3d(0.8, 0.8, 0.8) translate3d(0, 10%, 0);
   transform: scale3d(0.8, 0.8, 0.8) translate3d(0, 10%, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-scale-up .lg-item.lg-current {
   -moz-transform: scale3d(1, 1, 1) translate3d(0, 0, 0);
   -o-transform: scale3d(1, 1, 1) translate3d(0, 0, 0);
@@ -601,18 +601,18 @@ template {
   transform: scale3d(1, 1, 1) translate3d(0, 0, 0);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-scale-up .lg-item.lg-current, .lg-css3.lg-scale-up .lg-item.lg-next-slide, .lg-css3.lg-scale-up .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular .lg-item.lg-prev-slide {
   -moz-transform: scale3d(0, 0, 0) translate3d(-100%, 0, 0);
   -o-transform: scale3d(0, 0, 0) translate3d(-100%, 0, 0);
@@ -620,7 +620,7 @@ template {
   -webkit-transform: scale3d(0, 0, 0) translate3d(-100%, 0, 0);
   transform: scale3d(0, 0, 0) translate3d(-100%, 0, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular .lg-item.lg-next-slide {
   -moz-transform: scale3d(0, 0, 0) translate3d(100%, 0, 0);
   -o-transform: scale3d(0, 0, 0) translate3d(100%, 0, 0);
@@ -628,7 +628,7 @@ template {
   -webkit-transform: scale3d(0, 0, 0) translate3d(100%, 0, 0);
   transform: scale3d(0, 0, 0) translate3d(100%, 0, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular .lg-item.lg-current {
   -moz-transform: scale3d(1, 1, 1) translate3d(0, 0, 0);
   -o-transform: scale3d(1, 1, 1) translate3d(0, 0, 0);
@@ -637,18 +637,18 @@ template {
   transform: scale3d(1, 1, 1) translate3d(0, 0, 0);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular .lg-item.lg-current, .lg-css3.lg-slide-circular .lg-item.lg-next-slide, .lg-css3.lg-slide-circular .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular-up .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular-up .lg-item.lg-prev-slide {
   -moz-transform: scale3d(0, 0, 0) translate3d(-100%, -100%, 0);
   -o-transform: scale3d(0, 0, 0) translate3d(-100%, -100%, 0);
@@ -656,7 +656,7 @@ template {
   -webkit-transform: scale3d(0, 0, 0) translate3d(-100%, -100%, 0);
   transform: scale3d(0, 0, 0) translate3d(-100%, -100%, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular-up .lg-item.lg-next-slide {
   -moz-transform: scale3d(0, 0, 0) translate3d(100%, -100%, 0);
   -o-transform: scale3d(0, 0, 0) translate3d(100%, -100%, 0);
@@ -664,7 +664,7 @@ template {
   -webkit-transform: scale3d(0, 0, 0) translate3d(100%, -100%, 0);
   transform: scale3d(0, 0, 0) translate3d(100%, -100%, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular-up .lg-item.lg-current {
   -moz-transform: scale3d(1, 1, 1) translate3d(0, 0, 0);
   -o-transform: scale3d(1, 1, 1) translate3d(0, 0, 0);
@@ -673,18 +673,18 @@ template {
   transform: scale3d(1, 1, 1) translate3d(0, 0, 0);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular-up .lg-item.lg-current, .lg-css3.lg-slide-circular-up .lg-item.lg-next-slide, .lg-css3.lg-slide-circular-up .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular-down .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular-down .lg-item.lg-prev-slide {
   -moz-transform: scale3d(0, 0, 0) translate3d(-100%, 100%, 0);
   -o-transform: scale3d(0, 0, 0) translate3d(-100%, 100%, 0);
@@ -692,7 +692,7 @@ template {
   -webkit-transform: scale3d(0, 0, 0) translate3d(-100%, 100%, 0);
   transform: scale3d(0, 0, 0) translate3d(-100%, 100%, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular-down .lg-item.lg-next-slide {
   -moz-transform: scale3d(0, 0, 0) translate3d(100%, 100%, 0);
   -o-transform: scale3d(0, 0, 0) translate3d(100%, 100%, 0);
@@ -700,7 +700,7 @@ template {
   -webkit-transform: scale3d(0, 0, 0) translate3d(100%, 100%, 0);
   transform: scale3d(0, 0, 0) translate3d(100%, 100%, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular-down .lg-item.lg-current {
   -moz-transform: scale3d(1, 1, 1) translate3d(0, 0, 0);
   -o-transform: scale3d(1, 1, 1) translate3d(0, 0, 0);
@@ -709,18 +709,18 @@ template {
   transform: scale3d(1, 1, 1) translate3d(0, 0, 0);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular-down .lg-item.lg-current, .lg-css3.lg-slide-circular-down .lg-item.lg-next-slide, .lg-css3.lg-slide-circular-down .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular-vertical .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular-vertical .lg-item.lg-prev-slide {
   -moz-transform: scale3d(0, 0, 0) translate3d(0, -100%, 0);
   -o-transform: scale3d(0, 0, 0) translate3d(0, -100%, 0);
@@ -728,7 +728,7 @@ template {
   -webkit-transform: scale3d(0, 0, 0) translate3d(0, -100%, 0);
   transform: scale3d(0, 0, 0) translate3d(0, -100%, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular-vertical .lg-item.lg-next-slide {
   -moz-transform: scale3d(0, 0, 0) translate3d(0, 100%, 0);
   -o-transform: scale3d(0, 0, 0) translate3d(0, 100%, 0);
@@ -736,7 +736,7 @@ template {
   -webkit-transform: scale3d(0, 0, 0) translate3d(0, 100%, 0);
   transform: scale3d(0, 0, 0) translate3d(0, 100%, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular-vertical .lg-item.lg-current {
   -moz-transform: scale3d(1, 1, 1) translate3d(0, 0, 0);
   -o-transform: scale3d(1, 1, 1) translate3d(0, 0, 0);
@@ -745,18 +745,18 @@ template {
   transform: scale3d(1, 1, 1) translate3d(0, 0, 0);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular-vertical .lg-item.lg-current, .lg-css3.lg-slide-circular-vertical .lg-item.lg-next-slide, .lg-css3.lg-slide-circular-vertical .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular-vertical-left .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular-vertical-left .lg-item.lg-prev-slide {
   -moz-transform: scale3d(0, 0, 0) translate3d(-100%, -100%, 0);
   -o-transform: scale3d(0, 0, 0) translate3d(-100%, -100%, 0);
@@ -764,7 +764,7 @@ template {
   -webkit-transform: scale3d(0, 0, 0) translate3d(-100%, -100%, 0);
   transform: scale3d(0, 0, 0) translate3d(-100%, -100%, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular-vertical-left .lg-item.lg-next-slide {
   -moz-transform: scale3d(0, 0, 0) translate3d(-100%, 100%, 0);
   -o-transform: scale3d(0, 0, 0) translate3d(-100%, 100%, 0);
@@ -772,7 +772,7 @@ template {
   -webkit-transform: scale3d(0, 0, 0) translate3d(-100%, 100%, 0);
   transform: scale3d(0, 0, 0) translate3d(-100%, 100%, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular-vertical-left .lg-item.lg-current {
   -moz-transform: scale3d(1, 1, 1) translate3d(0, 0, 0);
   -o-transform: scale3d(1, 1, 1) translate3d(0, 0, 0);
@@ -781,18 +781,18 @@ template {
   transform: scale3d(1, 1, 1) translate3d(0, 0, 0);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular-vertical-left .lg-item.lg-current, .lg-css3.lg-slide-circular-vertical-left .lg-item.lg-next-slide, .lg-css3.lg-slide-circular-vertical-left .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular-vertical-down .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular-vertical-down .lg-item.lg-prev-slide {
   -moz-transform: scale3d(0, 0, 0) translate3d(100%, -100%, 0);
   -o-transform: scale3d(0, 0, 0) translate3d(100%, -100%, 0);
@@ -800,7 +800,7 @@ template {
   -webkit-transform: scale3d(0, 0, 0) translate3d(100%, -100%, 0);
   transform: scale3d(0, 0, 0) translate3d(100%, -100%, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular-vertical-down .lg-item.lg-next-slide {
   -moz-transform: scale3d(0, 0, 0) translate3d(100%, 100%, 0);
   -o-transform: scale3d(0, 0, 0) translate3d(100%, 100%, 0);
@@ -808,7 +808,7 @@ template {
   -webkit-transform: scale3d(0, 0, 0) translate3d(100%, 100%, 0);
   transform: scale3d(0, 0, 0) translate3d(100%, 100%, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular-vertical-down .lg-item.lg-current {
   -moz-transform: scale3d(1, 1, 1) translate3d(0, 0, 0);
   -o-transform: scale3d(1, 1, 1) translate3d(0, 0, 0);
@@ -817,45 +817,45 @@ template {
   transform: scale3d(1, 1, 1) translate3d(0, 0, 0);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-circular-vertical-down .lg-item.lg-current, .lg-css3.lg-slide-circular-vertical-down .lg-item.lg-next-slide, .lg-css3.lg-slide-circular-vertical-down .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-vertical .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-vertical .lg-item.lg-prev-slide {
   -webkit-transform: translate3d(0, -100%, 0);
   transform: translate3d(0, -100%, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-vertical .lg-item.lg-next-slide {
   -webkit-transform: translate3d(0, 100%, 0);
   transform: translate3d(0, 100%, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-vertical .lg-item.lg-current {
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-vertical .lg-item.lg-current, .lg-css3.lg-slide-vertical .lg-item.lg-next-slide, .lg-css3.lg-slide-vertical .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-vertical-growth .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-vertical-growth .lg-item.lg-prev-slide {
   -moz-transform: scale3d(0.5, 0.5, 0.5) translate3d(0, -150%, 0);
   -o-transform: scale3d(0.5, 0.5, 0.5) translate3d(0, -150%, 0);
@@ -863,7 +863,7 @@ template {
   -webkit-transform: scale3d(0.5, 0.5, 0.5) translate3d(0, -150%, 0);
   transform: scale3d(0.5, 0.5, 0.5) translate3d(0, -150%, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-vertical-growth .lg-item.lg-next-slide {
   -moz-transform: scale3d(0.5, 0.5, 0.5) translate3d(0, 150%, 0);
   -o-transform: scale3d(0.5, 0.5, 0.5) translate3d(0, 150%, 0);
@@ -871,7 +871,7 @@ template {
   -webkit-transform: scale3d(0.5, 0.5, 0.5) translate3d(0, 150%, 0);
   transform: scale3d(0.5, 0.5, 0.5) translate3d(0, 150%, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-vertical-growth .lg-item.lg-current {
   -moz-transform: scale3d(1, 1, 1) translate3d(0, 0, 0);
   -o-transform: scale3d(1, 1, 1) translate3d(0, 0, 0);
@@ -880,18 +880,18 @@ template {
   transform: scale3d(1, 1, 1) translate3d(0, 0, 0);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-vertical-growth .lg-item.lg-current, .lg-css3.lg-slide-vertical-growth .lg-item.lg-next-slide, .lg-css3.lg-slide-vertical-growth .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-only .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-only .lg-item.lg-next-slide, .lg-css3.lg-slide-skew-only .lg-item.lg-prev-slide {
   -moz-transform: skew(10deg, 0deg);
   -o-transform: skew(10deg, 0deg);
@@ -899,7 +899,7 @@ template {
   -webkit-transform: skew(10deg, 0deg);
   transform: skew(10deg, 0deg); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-only .lg-item.lg-current {
   -moz-transform: skew(0deg, 0deg);
   -o-transform: skew(0deg, 0deg);
@@ -908,18 +908,18 @@ template {
   transform: skew(0deg, 0deg);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-only .lg-item.lg-current, .lg-css3.lg-slide-skew-only .lg-item.lg-next-slide, .lg-css3.lg-slide-skew-only .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-only-rev .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-only-rev .lg-item.lg-next-slide, .lg-css3.lg-slide-skew-only-rev .lg-item.lg-prev-slide {
   -moz-transform: skew(-10deg, 0deg);
   -o-transform: skew(-10deg, 0deg);
@@ -927,7 +927,7 @@ template {
   -webkit-transform: skew(-10deg, 0deg);
   transform: skew(-10deg, 0deg); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-only-rev .lg-item.lg-current {
   -moz-transform: skew(0deg, 0deg);
   -o-transform: skew(0deg, 0deg);
@@ -936,18 +936,18 @@ template {
   transform: skew(0deg, 0deg);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-only-rev .lg-item.lg-current, .lg-css3.lg-slide-skew-only-rev .lg-item.lg-next-slide, .lg-css3.lg-slide-skew-only-rev .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-only-y .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-only-y .lg-item.lg-next-slide, .lg-css3.lg-slide-skew-only-y .lg-item.lg-prev-slide {
   -moz-transform: skew(0deg, 10deg);
   -o-transform: skew(0deg, 10deg);
@@ -955,7 +955,7 @@ template {
   -webkit-transform: skew(0deg, 10deg);
   transform: skew(0deg, 10deg); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-only-y .lg-item.lg-current {
   -moz-transform: skew(0deg, 0deg);
   -o-transform: skew(0deg, 0deg);
@@ -964,18 +964,18 @@ template {
   transform: skew(0deg, 0deg);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-only-y .lg-item.lg-current, .lg-css3.lg-slide-skew-only-y .lg-item.lg-next-slide, .lg-css3.lg-slide-skew-only-y .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-only-y-rev .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-only-y-rev .lg-item.lg-next-slide, .lg-css3.lg-slide-skew-only-y-rev .lg-item.lg-prev-slide {
   -moz-transform: skew(0deg, -10deg);
   -o-transform: skew(0deg, -10deg);
@@ -983,7 +983,7 @@ template {
   -webkit-transform: skew(0deg, -10deg);
   transform: skew(0deg, -10deg); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-only-y-rev .lg-item.lg-current {
   -moz-transform: skew(0deg, 0deg);
   -o-transform: skew(0deg, 0deg);
@@ -992,18 +992,18 @@ template {
   transform: skew(0deg, 0deg);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-only-y-rev .lg-item.lg-current, .lg-css3.lg-slide-skew-only-y-rev .lg-item.lg-next-slide, .lg-css3.lg-slide-skew-only-y-rev .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew .lg-item.lg-prev-slide {
   -moz-transform: skew(20deg, 0deg) translate3d(-100%, 0, 0);
   -o-transform: skew(20deg, 0deg) translate3d(-100%, 0, 0);
@@ -1011,7 +1011,7 @@ template {
   -webkit-transform: skew(20deg, 0deg) translate3d(-100%, 0, 0);
   transform: skew(20deg, 0deg) translate3d(-100%, 0, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew .lg-item.lg-next-slide {
   -moz-transform: skew(20deg, 0deg) translate3d(100%, 0, 0);
   -o-transform: skew(20deg, 0deg) translate3d(100%, 0, 0);
@@ -1019,7 +1019,7 @@ template {
   -webkit-transform: skew(20deg, 0deg) translate3d(100%, 0, 0);
   transform: skew(20deg, 0deg) translate3d(100%, 0, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew .lg-item.lg-current {
   -moz-transform: skew(0deg, 0deg) translate3d(0, 0, 0);
   -o-transform: skew(0deg, 0deg) translate3d(0, 0, 0);
@@ -1028,18 +1028,18 @@ template {
   transform: skew(0deg, 0deg) translate3d(0, 0, 0);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew .lg-item.lg-current, .lg-css3.lg-slide-skew .lg-item.lg-next-slide, .lg-css3.lg-slide-skew .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-rev .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-rev .lg-item.lg-prev-slide {
   -moz-transform: skew(-20deg, 0deg) translate3d(-100%, 0, 0);
   -o-transform: skew(-20deg, 0deg) translate3d(-100%, 0, 0);
@@ -1047,7 +1047,7 @@ template {
   -webkit-transform: skew(-20deg, 0deg) translate3d(-100%, 0, 0);
   transform: skew(-20deg, 0deg) translate3d(-100%, 0, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-rev .lg-item.lg-next-slide {
   -moz-transform: skew(-20deg, 0deg) translate3d(100%, 0, 0);
   -o-transform: skew(-20deg, 0deg) translate3d(100%, 0, 0);
@@ -1055,7 +1055,7 @@ template {
   -webkit-transform: skew(-20deg, 0deg) translate3d(100%, 0, 0);
   transform: skew(-20deg, 0deg) translate3d(100%, 0, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-rev .lg-item.lg-current {
   -moz-transform: skew(0deg, 0deg) translate3d(0, 0, 0);
   -o-transform: skew(0deg, 0deg) translate3d(0, 0, 0);
@@ -1064,18 +1064,18 @@ template {
   transform: skew(0deg, 0deg) translate3d(0, 0, 0);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-rev .lg-item.lg-current, .lg-css3.lg-slide-skew-rev .lg-item.lg-next-slide, .lg-css3.lg-slide-skew-rev .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-cross .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-cross .lg-item.lg-prev-slide {
   -moz-transform: skew(0deg, 60deg) translate3d(-100%, 0, 0);
   -o-transform: skew(0deg, 60deg) translate3d(-100%, 0, 0);
@@ -1083,7 +1083,7 @@ template {
   -webkit-transform: skew(0deg, 60deg) translate3d(-100%, 0, 0);
   transform: skew(0deg, 60deg) translate3d(-100%, 0, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-cross .lg-item.lg-next-slide {
   -moz-transform: skew(0deg, 60deg) translate3d(100%, 0, 0);
   -o-transform: skew(0deg, 60deg) translate3d(100%, 0, 0);
@@ -1091,7 +1091,7 @@ template {
   -webkit-transform: skew(0deg, 60deg) translate3d(100%, 0, 0);
   transform: skew(0deg, 60deg) translate3d(100%, 0, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-cross .lg-item.lg-current {
   -moz-transform: skew(0deg, 0deg) translate3d(0, 0, 0);
   -o-transform: skew(0deg, 0deg) translate3d(0, 0, 0);
@@ -1100,18 +1100,18 @@ template {
   transform: skew(0deg, 0deg) translate3d(0, 0, 0);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-cross .lg-item.lg-current, .lg-css3.lg-slide-skew-cross .lg-item.lg-next-slide, .lg-css3.lg-slide-skew-cross .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-cross-rev .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-cross-rev .lg-item.lg-prev-slide {
   -moz-transform: skew(0deg, -60deg) translate3d(-100%, 0, 0);
   -o-transform: skew(0deg, -60deg) translate3d(-100%, 0, 0);
@@ -1119,7 +1119,7 @@ template {
   -webkit-transform: skew(0deg, -60deg) translate3d(-100%, 0, 0);
   transform: skew(0deg, -60deg) translate3d(-100%, 0, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-cross-rev .lg-item.lg-next-slide {
   -moz-transform: skew(0deg, -60deg) translate3d(100%, 0, 0);
   -o-transform: skew(0deg, -60deg) translate3d(100%, 0, 0);
@@ -1127,7 +1127,7 @@ template {
   -webkit-transform: skew(0deg, -60deg) translate3d(100%, 0, 0);
   transform: skew(0deg, -60deg) translate3d(100%, 0, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-cross-rev .lg-item.lg-current {
   -moz-transform: skew(0deg, 0deg) translate3d(0, 0, 0);
   -o-transform: skew(0deg, 0deg) translate3d(0, 0, 0);
@@ -1136,18 +1136,18 @@ template {
   transform: skew(0deg, 0deg) translate3d(0, 0, 0);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-cross-rev .lg-item.lg-current, .lg-css3.lg-slide-skew-cross-rev .lg-item.lg-next-slide, .lg-css3.lg-slide-skew-cross-rev .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-ver .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-ver .lg-item.lg-prev-slide {
   -moz-transform: skew(60deg, 0deg) translate3d(0, -100%, 0);
   -o-transform: skew(60deg, 0deg) translate3d(0, -100%, 0);
@@ -1155,7 +1155,7 @@ template {
   -webkit-transform: skew(60deg, 0deg) translate3d(0, -100%, 0);
   transform: skew(60deg, 0deg) translate3d(0, -100%, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-ver .lg-item.lg-next-slide {
   -moz-transform: skew(60deg, 0deg) translate3d(0, 100%, 0);
   -o-transform: skew(60deg, 0deg) translate3d(0, 100%, 0);
@@ -1163,7 +1163,7 @@ template {
   -webkit-transform: skew(60deg, 0deg) translate3d(0, 100%, 0);
   transform: skew(60deg, 0deg) translate3d(0, 100%, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-ver .lg-item.lg-current {
   -moz-transform: skew(0deg, 0deg) translate3d(0, 0, 0);
   -o-transform: skew(0deg, 0deg) translate3d(0, 0, 0);
@@ -1172,18 +1172,18 @@ template {
   transform: skew(0deg, 0deg) translate3d(0, 0, 0);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-ver .lg-item.lg-current, .lg-css3.lg-slide-skew-ver .lg-item.lg-next-slide, .lg-css3.lg-slide-skew-ver .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-ver-rev .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-ver-rev .lg-item.lg-prev-slide {
   -moz-transform: skew(-60deg, 0deg) translate3d(0, -100%, 0);
   -o-transform: skew(-60deg, 0deg) translate3d(0, -100%, 0);
@@ -1191,7 +1191,7 @@ template {
   -webkit-transform: skew(-60deg, 0deg) translate3d(0, -100%, 0);
   transform: skew(-60deg, 0deg) translate3d(0, -100%, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-ver-rev .lg-item.lg-next-slide {
   -moz-transform: skew(-60deg, 0deg) translate3d(0, 100%, 0);
   -o-transform: skew(-60deg, 0deg) translate3d(0, 100%, 0);
@@ -1199,7 +1199,7 @@ template {
   -webkit-transform: skew(-60deg, 0deg) translate3d(0, 100%, 0);
   transform: skew(-60deg, 0deg) translate3d(0, 100%, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-ver-rev .lg-item.lg-current {
   -moz-transform: skew(0deg, 0deg) translate3d(0, 0, 0);
   -o-transform: skew(0deg, 0deg) translate3d(0, 0, 0);
@@ -1208,18 +1208,18 @@ template {
   transform: skew(0deg, 0deg) translate3d(0, 0, 0);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-ver-rev .lg-item.lg-current, .lg-css3.lg-slide-skew-ver-rev .lg-item.lg-next-slide, .lg-css3.lg-slide-skew-ver-rev .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-ver-cross .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-ver-cross .lg-item.lg-prev-slide {
   -moz-transform: skew(0deg, 20deg) translate3d(0, -100%, 0);
   -o-transform: skew(0deg, 20deg) translate3d(0, -100%, 0);
@@ -1227,7 +1227,7 @@ template {
   -webkit-transform: skew(0deg, 20deg) translate3d(0, -100%, 0);
   transform: skew(0deg, 20deg) translate3d(0, -100%, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-ver-cross .lg-item.lg-next-slide {
   -moz-transform: skew(0deg, 20deg) translate3d(0, 100%, 0);
   -o-transform: skew(0deg, 20deg) translate3d(0, 100%, 0);
@@ -1235,7 +1235,7 @@ template {
   -webkit-transform: skew(0deg, 20deg) translate3d(0, 100%, 0);
   transform: skew(0deg, 20deg) translate3d(0, 100%, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-ver-cross .lg-item.lg-current {
   -moz-transform: skew(0deg, 0deg) translate3d(0, 0, 0);
   -o-transform: skew(0deg, 0deg) translate3d(0, 0, 0);
@@ -1244,18 +1244,18 @@ template {
   transform: skew(0deg, 0deg) translate3d(0, 0, 0);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-ver-cross .lg-item.lg-current, .lg-css3.lg-slide-skew-ver-cross .lg-item.lg-next-slide, .lg-css3.lg-slide-skew-ver-cross .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-ver-cross-rev .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-ver-cross-rev .lg-item.lg-prev-slide {
   -moz-transform: skew(0deg, -20deg) translate3d(0, -100%, 0);
   -o-transform: skew(0deg, -20deg) translate3d(0, -100%, 0);
@@ -1263,7 +1263,7 @@ template {
   -webkit-transform: skew(0deg, -20deg) translate3d(0, -100%, 0);
   transform: skew(0deg, -20deg) translate3d(0, -100%, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-ver-cross-rev .lg-item.lg-next-slide {
   -moz-transform: skew(0deg, -20deg) translate3d(0, 100%, 0);
   -o-transform: skew(0deg, -20deg) translate3d(0, 100%, 0);
@@ -1271,7 +1271,7 @@ template {
   -webkit-transform: skew(0deg, -20deg) translate3d(0, 100%, 0);
   transform: skew(0deg, -20deg) translate3d(0, 100%, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-ver-cross-rev .lg-item.lg-current {
   -moz-transform: skew(0deg, 0deg) translate3d(0, 0, 0);
   -o-transform: skew(0deg, 0deg) translate3d(0, 0, 0);
@@ -1280,23 +1280,23 @@ template {
   transform: skew(0deg, 0deg) translate3d(0, 0, 0);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-slide-skew-ver-cross-rev .lg-item.lg-current, .lg-css3.lg-slide-skew-ver-cross-rev .lg-item.lg-next-slide, .lg-css3.lg-slide-skew-ver-cross-rev .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-lollipop .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-lollipop .lg-item.lg-prev-slide {
   -webkit-transform: translate3d(-100%, 0, 0);
   transform: translate3d(-100%, 0, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-lollipop .lg-item.lg-next-slide {
   -moz-transform: translate3d(0, 0, 0) scale(0.5);
   -o-transform: translate3d(0, 0, 0) scale(0.5);
@@ -1304,24 +1304,24 @@ template {
   -webkit-transform: translate3d(0, 0, 0) scale(0.5);
   transform: translate3d(0, 0, 0) scale(0.5); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-lollipop .lg-item.lg-current {
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-lollipop .lg-item.lg-current, .lg-css3.lg-lollipop .lg-item.lg-next-slide, .lg-css3.lg-lollipop .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-lollipop-rev .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-lollipop-rev .lg-item.lg-prev-slide {
   -moz-transform: translate3d(0, 0, 0) scale(0.5);
   -o-transform: translate3d(0, 0, 0) scale(0.5);
@@ -1329,29 +1329,29 @@ template {
   -webkit-transform: translate3d(0, 0, 0) scale(0.5);
   transform: translate3d(0, 0, 0) scale(0.5); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-lollipop-rev .lg-item.lg-next-slide {
   -webkit-transform: translate3d(100%, 0, 0);
   transform: translate3d(100%, 0, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-lollipop-rev .lg-item.lg-current {
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-lollipop-rev .lg-item.lg-current, .lg-css3.lg-lollipop-rev .lg-item.lg-next-slide, .lg-css3.lg-lollipop-rev .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-rotate .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-rotate .lg-item.lg-prev-slide {
   -moz-transform: rotate(-360deg);
   -o-transform: rotate(-360deg);
@@ -1359,7 +1359,7 @@ template {
   -webkit-transform: rotate(-360deg);
   transform: rotate(-360deg); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-rotate .lg-item.lg-next-slide {
   -moz-transform: rotate(360deg);
   -o-transform: rotate(360deg);
@@ -1367,7 +1367,7 @@ template {
   -webkit-transform: rotate(360deg);
   transform: rotate(360deg); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-rotate .lg-item.lg-current {
   -moz-transform: rotate(0);
   -o-transform: rotate(0);
@@ -1376,18 +1376,18 @@ template {
   transform: rotate(0);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-rotate .lg-item.lg-current, .lg-css3.lg-rotate .lg-item.lg-next-slide, .lg-css3.lg-rotate .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-rotate-rev .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-rotate-rev .lg-item.lg-prev-slide {
   -moz-transform: rotate(360deg);
   -o-transform: rotate(360deg);
@@ -1395,7 +1395,7 @@ template {
   -webkit-transform: rotate(360deg);
   transform: rotate(360deg); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-rotate-rev .lg-item.lg-next-slide {
   -moz-transform: rotate(-360deg);
   -o-transform: rotate(-360deg);
@@ -1403,7 +1403,7 @@ template {
   -webkit-transform: rotate(-360deg);
   transform: rotate(-360deg); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-rotate-rev .lg-item.lg-current {
   -moz-transform: rotate(0);
   -o-transform: rotate(0);
@@ -1412,18 +1412,18 @@ template {
   transform: rotate(0);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-rotate-rev .lg-item.lg-current, .lg-css3.lg-rotate-rev .lg-item.lg-next-slide, .lg-css3.lg-rotate-rev .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-tube .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-tube .lg-item.lg-prev-slide {
   -moz-transform: scale3d(1, 0, 1) translate3d(-100%, 0, 0);
   -o-transform: scale3d(1, 0, 1) translate3d(-100%, 0, 0);
@@ -1431,7 +1431,7 @@ template {
   -webkit-transform: scale3d(1, 0, 1) translate3d(-100%, 0, 0);
   transform: scale3d(1, 0, 1) translate3d(-100%, 0, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-tube .lg-item.lg-next-slide {
   -moz-transform: scale3d(1, 0, 1) translate3d(100%, 0, 0);
   -o-transform: scale3d(1, 0, 1) translate3d(100%, 0, 0);
@@ -1439,7 +1439,7 @@ template {
   -webkit-transform: scale3d(1, 0, 1) translate3d(100%, 0, 0);
   transform: scale3d(1, 0, 1) translate3d(100%, 0, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-tube .lg-item.lg-current {
   -moz-transform: scale3d(1, 1, 1) translate3d(0, 0, 0);
   -o-transform: scale3d(1, 1, 1) translate3d(0, 0, 0);
@@ -1448,18 +1448,18 @@ template {
   transform: scale3d(1, 1, 1) translate3d(0, 0, 0);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lg-transitions.min.css */
 .lg-css3.lg-tube .lg-item.lg-current, .lg-css3.lg-tube .lg-item.lg-next-slide, .lg-css3.lg-tube .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-sub-html, .lg-toolbar {
   background-color: rgba(0, 0, 0, 0.45); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 #lg-counter, .lg-outer .lg-video-cont {
   vertical-align: middle;
   display: inline-block; }
@@ -1471,7 +1471,7 @@ template {
   font-weight: 400;
   font-style: normal; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-icon {
   font-family: lg;
   speak: none;
@@ -1483,7 +1483,7 @@ template {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-actions .lg-next, .lg-actions .lg-prev {
   background-color: rgba(0, 0, 0, 0.45);
   border-radius: 2px;
@@ -1497,28 +1497,28 @@ template {
   top: 50%;
   z-index: 1080; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-actions .lg-next.disabled, .lg-actions .lg-prev.disabled {
   pointer-events: none;
   opacity: .5; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-actions .lg-next:hover, .lg-actions .lg-prev:hover {
   color: #FFF; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-actions .lg-next {
   right: 20px; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-actions .lg-next:before {
   content: "\e095"; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-actions .lg-prev {
   left: 20px; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-actions .lg-prev:after {
   content: "\e094"; }
 
@@ -1535,10 +1535,10 @@ template {
     left: -30px; } }
 
 @-ms-keyframes lg-right-end {
-  /* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+  /* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
   0%, 100% {
     left: 0; }
-  /* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+  /* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
   50% {
     left: -30px; } }
 
@@ -1561,10 +1561,10 @@ template {
     left: 30px; } }
 
 @-ms-keyframes lg-left-end {
-  /* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+  /* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
   0%, 100% {
     left: 0; }
-  /* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+  /* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
   50% {
     left: 30px; } }
 
@@ -1574,21 +1574,21 @@ template {
   50% {
     left: 30px; } }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer.lg-right-end .lg-object {
   -webkit-animation: lg-right-end .3s;
   -o-animation: lg-right-end .3s;
   animation: lg-right-end .3s;
   position: relative; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer.lg-left-end .lg-object {
   -webkit-animation: lg-left-end .3s;
   -o-animation: lg-left-end .3s;
   animation: lg-left-end .3s;
   position: relative; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-toolbar {
   z-index: 1082;
   left: 0;
@@ -1596,7 +1596,7 @@ template {
   top: 0;
   width: 100%; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-toolbar .lg-icon {
   color: #999;
   cursor: pointer;
@@ -1613,19 +1613,19 @@ template {
   -o-transition: color .2s linear;
   transition: color .2s linear; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-toolbar .lg-icon:hover {
   color: #FFF; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-toolbar .lg-close:after {
   content: "\e070"; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-toolbar .lg-download:after {
   content: "\e0f2"; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-sub-html {
   bottom: 0;
   color: #EEE;
@@ -1637,25 +1637,25 @@ template {
   text-align: center;
   z-index: 1080; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-sub-html h4 {
   margin: 0;
   font-size: 13px;
   font-weight: 700; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-sub-html p {
   font-size: 12px;
   margin: 5px 0 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 #lg-counter {
   color: #999;
   font-size: 16px;
   padding-left: 20px;
   padding-top: 12px; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-next, .lg-prev, .lg-toolbar {
   opacity: 1;
   -webkit-transition: -webkit-transform 0.35s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.35s cubic-bezier(0, 0, 0.25, 1) 0s, color 0.2s linear;
@@ -1663,25 +1663,25 @@ template {
   -o-transition: -o-transform 0.35s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.35s cubic-bezier(0, 0, 0.25, 1) 0s, color 0.2s linear;
   transition: transform 0.35s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.35s cubic-bezier(0, 0, 0.25, 1) 0s, color 0.2s linear; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-hide-items .lg-prev {
   opacity: 0;
   -webkit-transform: translate3d(-10px, 0, 0);
   transform: translate3d(-10px, 0, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-hide-items .lg-next {
   opacity: 0;
   -webkit-transform: translate3d(10px, 0, 0);
   transform: translate3d(10px, 0, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-hide-items .lg-toolbar {
   opacity: 0;
   -webkit-transform: translate3d(0, -10px, 0);
   transform: translate3d(0, -10px, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-object {
   -webkit-transform: scale3d(0.5, 0.5, 0.5);
   transform: scale3d(0.5, 0.5, 0.5);
@@ -1695,13 +1695,13 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-object {
   -ms-transform-origin: 50% 50%;
   transform-origin: 50% 50%; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object {
   -webkit-transform: scale3d(1, 1, 1);
   transform: scale3d(1, 1, 1);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-thumb-outer {
   background-color: #0D0A0A;
   bottom: 0;
@@ -1716,7 +1716,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   -o-transition: -o-transform 0.25s cubic-bezier(0, 0, 0.25, 1) 0s;
   transition: transform 0.25s cubic-bezier(0, 0, 0.25, 1) 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-thumb-outer.lg-grab .lg-thumb-item {
   cursor: -webkit-grab;
   cursor: -moz-grab;
@@ -1724,7 +1724,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   cursor: -ms-grab;
   cursor: grab; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-thumb-outer.lg-grabbing .lg-thumb-item {
   cursor: move;
   cursor: -webkit-grabbing;
@@ -1733,23 +1733,23 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   cursor: -ms-grabbing;
   cursor: grabbing; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-thumb-outer.lg-dragging .lg-thumb {
   -webkit-transition-duration: 0s !important;
   transition-duration: 0s !important; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer.lg-thumb-open .lg-thumb-outer {
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-thumb {
   padding: 10px 0;
   height: 100%;
   margin-bottom: -5px; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-thumb-item {
   cursor: pointer;
   float: left;
@@ -1760,41 +1760,41 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   margin-bottom: 5px; }
 
 @media (min-width: 1025px) {
-  /* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+  /* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
   .lg-outer .lg-thumb-item {
     -webkit-transition: border-color .25s ease;
     -o-transition: border-color .25s ease;
     transition: border-color .25s ease; } }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-thumb-item.active, .lg-outer .lg-thumb-item:hover {
   border-color: #a90707; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-thumb-item img {
   width: 100%;
   height: 100%;
   object-fit: cover; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer.lg-has-thumb .lg-item {
   padding-bottom: 120px; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer.lg-can-toggle .lg-item {
   padding-bottom: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer.lg-pull-caption-up .lg-sub-html {
   -webkit-transition: bottom .25s ease;
   -o-transition: bottom .25s ease;
   transition: bottom .25s ease; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer.lg-pull-caption-up.lg-thumb-open .lg-sub-html {
   bottom: 100px; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-toogle-thumb {
   background-color: #0D0A0A;
   border-radius: 2px 2px 0 0;
@@ -1810,22 +1810,22 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   top: -39px;
   width: 50px; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-toogle-thumb:hover, .lg-outer.lg-dropdown-active #lg-share {
   color: #FFF; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-toogle-thumb:after {
   content: "\e1ff"; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-video-cont {
   max-width: 1140px;
   max-height: 100%;
   width: 100%;
   padding: 0 5px; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-video {
   width: 100%;
   height: 0;
@@ -1833,7 +1833,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   overflow: hidden;
   position: relative; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-video .lg-object {
   display: inline-block;
   position: absolute;
@@ -1842,7 +1842,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   width: 100% !important;
   height: 100% !important; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-video .lg-video-play {
   width: 84px;
   height: 59px;
@@ -1854,15 +1854,15 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   z-index: 1080;
   cursor: pointer; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-has-vimeo .lg-video-play {
   background: url(../img/vimeo-play.png) no-repeat; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-has-vimeo:hover .lg-video-play {
   background: url(../img/vimeo-play.png) 0 -58px no-repeat; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-has-html5 .lg-video-play {
   background: url(../img/video-play.png) no-repeat;
   height: 64px;
@@ -1871,19 +1871,19 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   width: 64px;
   opacity: .8; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-has-html5:hover .lg-video-play {
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-has-youtube .lg-video-play {
   background: url(../img/youtube-play.png) no-repeat; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-has-youtube:hover .lg-video-play {
   background: url(../img/youtube-play.png) 0 -60px no-repeat; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-video-object {
   width: 100% !important;
   height: 100% !important;
@@ -1891,19 +1891,19 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   top: 0;
   left: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-has-video .lg-video-object {
   visibility: hidden; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-has-video.lg-video-playing .lg-object, .lg-outer .lg-has-video.lg-video-playing .lg-video-play {
   display: none; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-has-video.lg-video-playing .lg-video-object {
   visibility: visible; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-progress-bar {
   background-color: #333;
   height: 5px;
@@ -1918,34 +1918,34 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   -o-transition: opacity 80ms ease 0s;
   transition: opacity 80ms ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-progress-bar .lg-progress {
   background-color: #a90707;
   height: 5px;
   width: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-progress-bar.lg-start .lg-progress {
   width: 100%; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-show-autoplay .lg-progress-bar {
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-autoplay-button:after {
   content: "\e01d"; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-show-autoplay .lg-autoplay-button:after {
   content: "\e01a"; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer.lg-css3.lg-zoom-dragging .lg-item.lg-complete.lg-zoomable .lg-image, .lg-outer.lg-css3.lg-zoom-dragging .lg-item.lg-complete.lg-zoomable .lg-img-wrap {
   -webkit-transition-duration: 0s;
   transition-duration: 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-item.lg-complete.lg-zoomable .lg-img-wrap {
   -webkit-transition: left 0.3s cubic-bezier(0, 0, 0.25, 1) 0s, top 0.3s cubic-bezier(0, 0, 0.25, 1) 0s;
   -moz-transition: left 0.3s cubic-bezier(0, 0, 0.25, 1) 0s, top 0.3s cubic-bezier(0, 0, 0.25, 1) 0s;
@@ -1957,7 +1957,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   -moz-backface-visibility: hidden;
   backface-visibility: hidden; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-item.lg-complete.lg-zoomable .lg-image {
   -webkit-transform: scale3d(1, 1, 1);
   transform: scale3d(1, 1, 1);
@@ -1973,33 +1973,33 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   -moz-backface-visibility: hidden;
   backface-visibility: hidden; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 #lg-zoom-in:after {
   content: "\e311"; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 #lg-actual-size {
   font-size: 20px; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 #lg-actual-size:after {
   content: "\e033"; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 #lg-zoom-out {
   opacity: .5;
   pointer-events: none; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 #lg-zoom-out:after {
   content: "\e312"; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-zoomed #lg-zoom-out {
   opacity: 1;
   pointer-events: auto; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-pager-outer {
   bottom: 60px;
   left: 0;
@@ -2009,11 +2009,11 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   z-index: 1080;
   height: 10px; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-pager-outer.lg-pager-hover .lg-pager-cont {
   overflow: visible; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-pager-cont {
   cursor: pointer;
   display: inline-block;
@@ -2022,17 +2022,17 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   vertical-align: top;
   margin: 0 5px; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-pager-cont:hover .lg-pager-thumb-cont {
   opacity: 1;
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-pager-cont.lg-pager-active .lg-pager {
   box-shadow: 0 0 0 2px #fff inset; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-pager-thumb-cont {
   background-color: #fff;
   color: #FFF;
@@ -2053,12 +2053,12 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   -webkit-transform: translate3d(0, 5px, 0);
   transform: translate3d(0, 5px, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-pager-thumb-cont img {
   width: 100%;
   height: 100%; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-pager {
   background-color: rgba(255, 255, 255, 0.5);
   border-radius: 50%;
@@ -2070,11 +2070,11 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   transition: box-shadow .3s ease 0s;
   width: 12px; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-pager:focus, .lg-outer .lg-pager:hover {
   box-shadow: 0 0 0 8px #fff inset; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-caret {
   border-left: 10px solid transparent;
   border-right: 10px solid transparent;
@@ -2088,15 +2088,15 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   vertical-align: middle;
   width: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-fullscreen:after {
   content: "\e20c"; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-fullscreen-on .lg-fullscreen:after {
   content: "\e20d"; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer #lg-dropdown-overlay {
   background-color: rgba(0, 0, 0, 0.25);
   bottom: 0;
@@ -2112,7 +2112,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   -o-transition: visibility 0s linear .18s,opacity .18s linear 0s;
   transition: visibility 0s linear .18s,opacity .18s linear 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer.lg-dropdown-active #lg-dropdown-overlay, .lg-outer.lg-dropdown-active .lg-dropdown {
   -webkit-transition-delay: 0s;
   transition-delay: 0s;
@@ -2124,7 +2124,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   opacity: 1;
   visibility: visible; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-dropdown {
   background-color: #fff;
   border-radius: 2px;
@@ -2148,7 +2148,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   -o-transition: -o-transform .18s linear 0s,visibility 0s linear .5s,opacity .18s linear 0s;
   transition: transform .18s linear 0s,visibility 0s linear .5s,opacity .18s linear 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-dropdown:after {
   content: "";
   display: block;
@@ -2160,15 +2160,15 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   right: 16px;
   top: -16px; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-dropdown > li:last-child {
   margin-bottom: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-dropdown > li:hover .lg-icon, .lg-outer .lg-dropdown > li:hover a {
   color: #333; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-dropdown a {
   color: #333;
   display: block;
@@ -2177,18 +2177,18 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 12px; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-dropdown a:hover {
   background-color: rgba(0, 0, 0, 0.07); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-dropdown .lg-dropdown-text {
   display: inline-block;
   line-height: 1;
   margin-top: -3px;
   vertical-align: middle; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-dropdown .lg-icon {
   color: #333;
   display: inline-block;
@@ -2201,58 +2201,58 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   vertical-align: middle;
   width: auto; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer, .lg-outer .lg, .lg-outer .lg-inner {
   width: 100%;
   height: 100%; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer #lg-share {
   position: relative; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer #lg-share:after {
   content: "\e80d"; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer #lg-share-facebook .lg-icon {
   color: #3b5998; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer #lg-share-facebook .lg-icon:after {
   content: "\e901"; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer #lg-share-twitter .lg-icon {
   color: #00aced; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer #lg-share-twitter .lg-icon:after {
   content: "\e904"; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer #lg-share-googleplus .lg-icon {
   color: #dd4b39; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer #lg-share-googleplus .lg-icon:after {
   content: "\e902"; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer #lg-share-pinterest .lg-icon {
   color: #cb2027; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer #lg-share-pinterest .lg-icon:after {
   content: "\e903"; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .group:after {
   content: "";
   display: table;
   clear: both; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer {
   position: fixed;
   top: 0;
@@ -2263,30 +2263,30 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   -o-transition: opacity .15s ease 0s;
   transition: opacity .15s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer.lg-visible {
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer.lg-css3 .lg-item.lg-current, .lg-outer.lg-css3 .lg-item.lg-next-slide, .lg-outer.lg-css3 .lg-item.lg-prev-slide {
   -webkit-transition-duration: inherit !important;
   transition-duration: inherit !important;
   -webkit-transition-timing-function: inherit !important;
   transition-timing-function: inherit !important; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer.lg-css3.lg-dragging .lg-item.lg-current, .lg-outer.lg-css3.lg-dragging .lg-item.lg-next-slide, .lg-outer.lg-css3.lg-dragging .lg-item.lg-prev-slide {
   -webkit-transition-duration: 0s !important;
   transition-duration: 0s !important;
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer.lg-grab img.lg-object {
   cursor: -webkit-grab;
   cursor: -moz-grab;
@@ -2294,7 +2294,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   cursor: -ms-grab;
   cursor: grab; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer.lg-grabbing img.lg-object {
   cursor: move;
   cursor: -webkit-grabbing;
@@ -2303,7 +2303,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   cursor: -ms-grabbing;
   cursor: grabbing; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg {
   position: relative;
   overflow: hidden;
@@ -2312,23 +2312,23 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   max-width: 100%;
   max-height: 100%; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-inner {
   position: absolute;
   left: 0;
   top: 0;
   white-space: nowrap; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-item {
   background: url(../img/loading.gif) center center no-repeat;
   display: none !important; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer.lg-css .lg-current, .lg-outer.lg-css3 .lg-current, .lg-outer.lg-css3 .lg-next-slide, .lg-outer.lg-css3 .lg-prev-slide {
   display: inline-block !important; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-img-wrap, .lg-outer .lg-item {
   display: inline-block;
   text-align: center;
@@ -2336,7 +2336,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   width: 100%;
   height: 100%; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-img-wrap:before, .lg-outer .lg-item:before {
   content: "";
   display: inline-block;
@@ -2344,7 +2344,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   width: 1px;
   margin-right: -1px; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-img-wrap {
   position: absolute;
   padding: 0 5px;
@@ -2353,15 +2353,15 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   top: 0;
   bottom: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-item.lg-complete {
   background-image: none; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-item.lg-current {
   z-index: 1060; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-image {
   display: inline-block;
   vertical-align: middle;
@@ -2370,22 +2370,22 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   width: auto !important;
   height: auto !important; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer.lg-show-after-load .lg-item .lg-object, .lg-outer.lg-show-after-load .lg-item .lg-video-play {
   opacity: 0;
   -webkit-transition: opacity .15s ease 0s;
   -o-transition: opacity .15s ease 0s;
   transition: opacity .15s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer.lg-show-after-load .lg-item.lg-complete .lg-object, .lg-outer.lg-show-after-load .lg-item.lg-complete .lg-video-play {
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-outer .lg-empty-html, .lg-outer.lg-hide-download #lg-download {
   display: none; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-backdrop {
   position: fixed;
   top: 0;
@@ -2399,166 +2399,151 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   -o-transition: opacity .15s ease 0s;
   transition: opacity .15s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-backdrop.in {
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-css3.lg-no-trans .lg-current, .lg-css3.lg-no-trans .lg-next-slide, .lg-css3.lg-no-trans .lg-prev-slide {
   -webkit-transition: none 0s ease 0s !important;
   -moz-transition: none 0s ease 0s !important;
   -o-transition: none 0s ease 0s !important;
   transition: none 0s ease 0s !important; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-css3.lg-use-css3 .lg-item, .lg-css3.lg-use-left .lg-item {
   -webkit-backface-visibility: hidden;
   -moz-backface-visibility: hidden;
   backface-visibility: hidden; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-css3.lg-fade .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-css3.lg-fade .lg-item.lg-current {
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-css3.lg-fade .lg-item.lg-current, .lg-css3.lg-fade .lg-item.lg-next-slide, .lg-css3.lg-fade .lg-item.lg-prev-slide {
   -webkit-transition: opacity .1s ease 0s;
   -moz-transition: opacity .1s ease 0s;
   -o-transition: opacity .1s ease 0s;
   transition: opacity .1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-css3.lg-slide.lg-use-css3 .lg-item {
   opacity: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-css3.lg-slide.lg-use-css3 .lg-item.lg-prev-slide {
   -webkit-transform: translate3d(-100%, 0, 0);
   transform: translate3d(-100%, 0, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-css3.lg-slide.lg-use-css3 .lg-item.lg-next-slide {
   -webkit-transform: translate3d(100%, 0, 0);
   transform: translate3d(100%, 0, 0); }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-css3.lg-slide.lg-use-css3 .lg-item.lg-current {
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-css3.lg-slide.lg-use-css3 .lg-item.lg-current, .lg-css3.lg-slide.lg-use-css3 .lg-item.lg-next-slide, .lg-css3.lg-slide.lg-use-css3 .lg-item.lg-prev-slide {
   -webkit-transition: -webkit-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -moz-transition: -moz-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -o-transition: -o-transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   transition: transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-css3.lg-slide.lg-use-left .lg-item {
   opacity: 0;
   position: absolute;
   left: 0; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-css3.lg-slide.lg-use-left .lg-item.lg-prev-slide {
   left: -100%; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-css3.lg-slide.lg-use-left .lg-item.lg-next-slide {
   left: 100%; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-css3.lg-slide.lg-use-left .lg-item.lg-current {
   left: 0;
   opacity: 1; }
 
-/* line 1, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/_lightgallery.min.css */
+/* line 1, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/_lightgallery.min.css */
 .lg-css3.lg-slide.lg-use-left .lg-item.lg-current, .lg-css3.lg-slide.lg-use-left .lg-item.lg-next-slide, .lg-css3.lg-slide.lg-use-left .lg-item.lg-prev-slide {
   -webkit-transition: left 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -moz-transition: left 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   -o-transition: left 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   transition: left 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s; }
 
-/* line 8, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 8, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/styles.scss */
 body {
-  background: #f0d7d7;
+  margin: 0 auto;
+  max-width: 100%;
+  width: 100%;
+  background-color: #f0d7d7;
+  color: #eee;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
-/*figure {
-    background: orange;
-    padding: 1em;
-    width: 300px;
-    text-align: center;
-    
-    
-}*/
-/* line 20, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
-.small {
+/* line 16, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/styles.scss */
+header img {
+  width: 100%;
+  max-width: 100%; }
+
+/* line 21, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/styles.scss */
+figcaption {
   font-size: 21px;
   color: #999;
   display: block;
   margin-top: -5px; }
 
-/* line 26, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
-.cont {
-  margin: 0 auto;
-  text-align: center; }
-
-/* line 31, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
-main header img {
-  width: 100%;
-  max-width: 100%; }
-
-/* line 37, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
-figure img {
-  box-shadow: 2px 2px 2px gray; }
-
-/* line 40, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 28, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/styles.scss */
 header {
-  text-align: center; }
+  display: flex;
+  justify-content: center; }
 
-/* line 43, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 32, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/styles.scss */
 header h1 {
   font-family: 'Yesteryear', cursive;
   font-size: 64px;
-  text-align: center;
   color: #ecd2d2;
   position: relative;
   top: -113px; }
 
-/* line 52, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
-.demo-gallery > ul {
+/* line 40, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/styles.scss */
+figure {
   display: flex;
   flex-flow: wrap;
-  justify-content: center;
+  justify-content: space-around;
   margin-bottom: 0;
   padding-left: 10px;
   opacity: .7;
   background: #c7c7f1; }
 
-/* line 62, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
-.demo-gallery > ul > li {
+/* line 50, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/styles.scss */
+figure > a > img {
   margin-bottom: 15px;
   margin-top: 15px;
   width: 180px;
   margin-right: 15px;
   list-style: outside none none; }
 
-/* line 71, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
-.demo-gallery > ul > li a {
-  border: 4px solid #fff;
+/* line 60, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/styles.scss */
+figure > a img {
+  border: 4px solid #2d3d4c;
   border-radius: 4px;
-  overflow: hidden;
-  position: relative;
-  float: left; }
+  overflow: hidden; }
 
-/* line 79, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
-.demo-gallery > ul > li a > img {
+/* line 67, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/styles.scss */
+figure > img {
   -webkit-transition: -webkit-transform 0.15s ease 0s;
   -moz-transition: -moz-transform 0.15s ease 0s;
   -o-transition: -o-transform 0.15s ease 0s;
@@ -2568,17 +2553,17 @@ header h1 {
   height: 100%;
   width: 100%; }
 
-/* line 90, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
-.demo-gallery > ul > li a:hover > img {
+/* line 78, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/styles.scss */
+figure > a:hover > img {
   -webkit-transform: scale3d(1.1, 1.1, 1.1);
   transform: scale3d(1.1, 1.1, 1.1); }
 
-/* line 95, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
-.demo-gallery > ul > li a:hover .demo-gallery-poster > img {
+/* line 83, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/styles.scss */
+figure > a:hover .demo-gallery-poster > img {
   opacity: 1; }
 
-/* line 99, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
-.demo-gallery > ul > li a .demo-gallery-poster {
+/* line 87, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/styles.scss */
+figure > a > .demo-gallery-poster img {
   background-color: rgba(0, 0, 0, 0.1);
   bottom: 0;
   left: 0;
@@ -2589,8 +2574,8 @@ header h1 {
   -o-transition: background-color 0.15s ease 0s;
   transition: background-color 0.15s ease 0s; }
 
-/* line 111, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
-.demo-gallery > ul > li a .demo-gallery-poster > img {
+/* line 99, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/styles.scss */
+figure > a .demo-gallery-poster img {
   left: 50%;
   margin-left: -10px;
   margin-top: -10px;
@@ -2601,8 +2586,8 @@ header h1 {
   -o-transition: opacity 0.3s ease 0s;
   transition: opacity 0.3s ease 0s; }
 
-/* line 123, C:/Users/Angela/Desktop/p3-stand-alone-portfolio/css/styles.scss */
-.demo-gallery > ul > li a:hover .demo-gallery-poster {
+/* line 111, /Users/amorlan/Documents/p3-stand-alone-portfolio/css/styles.scss */
+figure > a:hover .demo-gallery-poster {
   background-color: rgba(38, 84, 222, 0.2); }
 
 /*# sourceMappingURL=styles.css.map */
