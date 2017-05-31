@@ -10,7 +10,7 @@ body {
     background-color: #f0d7d7;
     color: #eee;
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    text-align: center;
+    
 }
 .angela-gallery {
     margin: 0 auto;
@@ -22,7 +22,7 @@ body {
 
 }
 
-.page-head img {
+header img {
     width: 100%;
     max-width: 100%;
     
@@ -40,7 +40,7 @@ body {
     text-align: left;
   
 }*/
-#lightgallery  {
+figure  {
     display: flex;
     flex-flow: wrap-reverse;
     justify-content: center;
@@ -58,7 +58,7 @@ body {
     margin-bottom: 15px;
     
 }*/
-#lightgallery > a > img  {
+figure > a > img  {
     margin-bottom: 15px;
     margin-top: 15px;
     width: 180px;
