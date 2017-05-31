@@ -2486,22 +2486,27 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 
 /* line 8, /Users/checkout/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 body {
+  margin: 0 auto;
   background-color: #f0d7d7;
   color: #eee;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-align: center; }
 
-/* line 14, /Users/checkout/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 15, /Users/checkout/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .angela-gallery {
   margin: 0 auto;
   width: 100%;
-  max-width: 100%; }
+  max-width: 100%;
+  text-align: center; }
 
-/* line 21, /Users/checkout/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 23, /Users/checkout/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .page-head img {
   width: 100%;
   max-width: 100%; }
 
+/*header {
+    margin: 0 auto;
+}*/
 /*header h1 {
     font-family: 'Yesteryear', cursive;
     color: #ecd2d2;
@@ -2509,25 +2514,26 @@ body {
     text-align: left;
   
 }*/
-/* line 35, /Users/checkout/Desktop/p3-stand-alone-portfolio/css/styles.scss */
-#lightGallery > a {
+/* line 41, /Users/checkout/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+#lightgallery {
   display: flex;
-  flex-flow: wrap;
-  justify-content: space-around;
-  margin-bottom: 0;
+  flex-flow: wrap-reverse;
+  justify-content: center;
   padding-left: 10px;
-  opacity: .7;
-  background: #c7c7f1; }
+  opacity: .6;
+  background: #c7c7f1;
+  margin-top: 15px; }
 
-/* line 45, /Users/checkout/Desktop/p3-stand-alone-portfolio/css/styles.scss */
-figcaption {
-  font-size: 21px;
+/* line 51, /Users/checkout/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+.caption {
   color: #999;
   display: block;
-  margin-top: -5px; }
+  text-align: center;
+  margin-top: -5px;
+  margin-bottom: 15px; }
 
-/* line 52, /Users/checkout/Desktop/p3-stand-alone-portfolio/css/styles.scss */
-.thumb {
+/* line 61, /Users/checkout/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+#lightgallery > a > img {
   margin-bottom: 15px;
   margin-top: 15px;
   width: 180px;
@@ -2537,52 +2543,37 @@ figcaption {
   border-radius: 4px;
   overflow: hidden; }
 
-/* line 64, /Users/checkout/Desktop/p3-stand-alone-portfolio/css/styles.scss */
-figure > a > img {
-  -webkit-transition: -webkit-transform 0.15s ease 0s;
-  -moz-transition: -moz-transform 0.15s ease 0s;
-  -o-transition: -o-transform 0.15s ease 0s;
-  transition: transform 0.15s ease 0s;
-  -webkit-transform: scale3d(1, 1, 1);
-  transform: scale3d(1, 1, 1);
-  height: 100%;
-  width: 100%; }
-
-/* line 75, /Users/checkout/Desktop/p3-stand-alone-portfolio/css/styles.scss */
-figure > a img:hover {
+/*#lightgallery > a img {
+      -webkit-transition: -webkit-transform 0.15s ease 0s;
+      -moz-transition: -moz-transform 0.15s ease 0s;
+      -o-transition: -o-transform 0.15s ease 0s;
+      transition: transform 0.15s ease 0s;
+      -webkit-transform: scale3d(1, 1, 1);
+      transform: scale3d(1, 1, 1);
+      height: auto;
+      width: 180px;
+}*/
+/* line 85, /Users/checkout/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+.angela-gallery > figure > a:hover > img {
   -webkit-transform: scale3d(1.1, 1.1, 1.1);
   transform: scale3d(1.1, 1.1, 1.1); }
 
-/* line 80, /Users/checkout/Desktop/p3-stand-alone-portfolio/css/styles.scss */
-figure > a:hover .demo-gallery-poster > img {
-  opacity: 1; }
-
-/* line 84, /Users/checkout/Desktop/p3-stand-alone-portfolio/css/styles.scss */
-figure > a > .demo-gallery-poster {
-  background-color: rgba(0, 0, 0, 0.1);
-  bottom: 0;
-  left: 0;
-  position: absolute;
-  right: 0;
-  top: 0;
-  -webkit-transition: background-color 0.15s ease 0s;
-  -o-transition: background-color 0.15s ease 0s;
-  transition: background-color 0.15s ease 0s; }
-
-/* line 96, /Users/checkout/Desktop/p3-stand-alone-portfolio/css/styles.scss */
-a > .demo-gallery-poster img {
-  left: 50%;
-  margin-left: -10px;
-  margin-top: -10px;
-  opacity: 0;
-  position: absolute;
-  top: 50%;
-  -webkit-transition: opacity 0.3s ease 0s;
-  -o-transition: opacity 0.3s ease 0s;
-  transition: opacity 0.3s ease 0s; }
-
-/* line 108, /Users/checkout/Desktop/p3-stand-alone-portfolio/css/styles.scss */
-a:hover img {
-  background-color: rgba(38, 84, 222, 0.2); }
+/*.angela-gallery figure a:hover > img {
+      opacity: 1;
+}*/
+/*.angela-gallery > figure > a  {
+      background-color: rgba(0, 0, 0, 0.1);
+      bottom: 0;
+      left: 0;
+      position: absolute;
+      right: 0;
+      top: 0;
+      -webkit-transition: background-color 0.15s ease 0s;
+      -o-transition: background-color 0.15s ease 0s;
+      transition: background-color 0.15s ease 0s;
+}*/
+/* line 107, /Users/checkout/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+img:hover {
+  box-shadow: 5px 5px 25px rgba(38, 84, 222, 0.79); }
 
 /*# sourceMappingURL=styles.css.map */

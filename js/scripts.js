@@ -14,6 +14,7 @@ $(document).ready(function(){
     $('#lightgallery').lightGallery({
         pager: true,
         selector: 'a',
+        thumbnail: true,
         mode: 'lg-lollipop'
     });
     $('.angela-gallery').tubular({
@@ -21,6 +22,5 @@ $(document).ready(function(){
         mute: true
     });
     $('header img').attr('src', eval( 'img' + randNum ) );
-    $('h1').fitText(2);
-    $('figcaption').fitText(2.5);
+    $('.caption').fitText(5);
 });
