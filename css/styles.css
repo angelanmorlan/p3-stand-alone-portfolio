@@ -2497,9 +2497,11 @@ body {
   margin: 0 auto;
   width: 100%;
   max-width: 100%;
-  text-align: center; }
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap; }
 
-/* line 23, /Users/checkout/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 25, /Users/checkout/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .page-head img {
   width: 100%;
   max-width: 100%; }
@@ -2514,24 +2516,24 @@ body {
     text-align: left;
   
 }*/
-/* line 41, /Users/checkout/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 43, /Users/checkout/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 #lightgallery {
   display: flex;
   flex-flow: wrap-reverse;
   justify-content: center;
-  padding-left: 10px;
+  padding: 10px;
+  width: 100%;
   opacity: .6;
   background: #c7c7f1;
   margin-top: 15px; }
 
-/* line 51, /Users/checkout/Desktop/p3-stand-alone-portfolio/css/styles.scss */
-.caption {
-  color: #999;
-  display: block;
-  text-align: center;
-  margin-top: -5px;
-  margin-bottom: 15px; }
-
+/*.caption {
+    
+    color: #999;
+    margin-top: -5px;
+    margin-bottom: 15px;
+    
+}*/
 /* line 61, /Users/checkout/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 #lightgallery > a > img {
   margin-bottom: 15px;
@@ -2573,7 +2575,7 @@ body {
       transition: background-color 0.15s ease 0s;
 }*/
 /* line 107, /Users/checkout/Desktop/p3-stand-alone-portfolio/css/styles.scss */
-img:hover {
+a img:hover {
   box-shadow: 5px 5px 25px rgba(38, 84, 222, 0.79); }
 
 /*# sourceMappingURL=styles.css.map */

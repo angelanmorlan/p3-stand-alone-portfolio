@@ -22,5 +22,5 @@ $(document).ready(function(){
         mute: true
     });
     $('header img').attr('src', eval( 'img' + randNum ) );
-    $('.caption').fitText(5);
+    
 });
