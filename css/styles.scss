@@ -6,38 +6,33 @@
 
 
 body {
-    margin: 0 auto;
-    max-width: 100%;
-    width: 100%;
     background-color: #f0d7d7;
     color: #eee;
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
 }
-header img {
+.angela-gallery {
+    margin: 0 auto;
     width: 100%;
     max-width: 100%;
+
 }
 
-figcaption {
-    font-size: 21px;
-    color: #999;
-    display: block;
-    margin-top: -5px;
+.page-head img {
+    width: 100%;
+    max-width: 100%;
+    
 }
 
-header {
-    display: flex;
-    justify-content: center;
-}
-header h1 {
-  font-family: 'Yesteryear', cursive;
-  font-size: 64px;
-  color: #ecd2d2;
-  position: relative;
-  top: -113px;
+
+/*header h1 {
+    font-family: 'Yesteryear', cursive;
+    color: #ecd2d2;
+    position: absolute;
+    text-align: left;
   
-}
-figure {
+}*/
+#lightGallery > a {
   display: flex;
   flex-flow: wrap;
   justify-content: space-around;
@@ -47,24 +42,26 @@ figure {
   background: #c7c7f1;
     
 }
-figure > a > img {
+figcaption {
+    font-size: 21px;
+    color: #999;
+    display: block;
+    margin-top: -5px;
+    
+}
+.thumb {
       margin-bottom: 15px;
       margin-top: 15px;
       width: 180px;
+      height: auto;
       margin-right: 15px;
-      list-style: outside none none;
-  
-}
-
-
-figure > a img  {
       border: 4px solid #2d3d4c;
       border-radius: 4px;
       overflow: hidden;
       
 }
 
-figure > img {
+figure > a > img {
       -webkit-transition: -webkit-transform 0.15s ease 0s;
       -moz-transition: -moz-transform 0.15s ease 0s;
       -o-transition: -o-transform 0.15s ease 0s;
@@ -75,7 +72,7 @@ figure > img {
       width: 100%;
 }
 
-figure > a:hover > img {
+figure > a img:hover {
       -webkit-transform: scale3d(1.1, 1.1, 1.1);
       transform: scale3d(1.1, 1.1, 1.1);
 }
@@ -84,7 +81,7 @@ figure > a:hover .demo-gallery-poster > img {
       opacity: 1;
 }
 
-figure > a > .demo-gallery-poster img {
+figure > a > .demo-gallery-poster {
       background-color: rgba(0, 0, 0, 0.1);
       bottom: 0;
       left: 0;
@@ -96,7 +93,7 @@ figure > a > .demo-gallery-poster img {
       transition: background-color 0.15s ease 0s;
 }
 
-figure > a .demo-gallery-poster img {
+a > .demo-gallery-poster img {
       left: 50%;
       margin-left: -10px;
       margin-top: -10px;
@@ -108,7 +105,7 @@ figure > a .demo-gallery-poster img {
       transition: opacity 0.3s ease 0s;
 }
 
-figure > a:hover .demo-gallery-poster {
+a:hover img {
       background-color: rgba(38, 84, 222, 0.2);
 }
 
