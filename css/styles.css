@@ -2497,15 +2497,16 @@ body {
   max-width: 100%;
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   text-align: center; }
 
-/* line 26, /Users/amorlan/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 27, /Users/amorlan/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 header img {
   width: 100%;
   max-width: 100%;
   position: relative; }
 
-/* line 36, /Users/amorlan/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 37, /Users/amorlan/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 header h1 {
   font-family: 'Yesteryear', cursive;
   color: #fcf9f9;
@@ -2514,7 +2515,7 @@ header h1 {
   padding: 8%;
   margin-top: 0; }
 
-/* line 48, /Users/amorlan/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 49, /Users/amorlan/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 figure {
   display: flex;
   flex-flow: wrap;
@@ -2524,12 +2525,12 @@ figure {
   margin-top: 0;
   margin-bottom: 30px; }
 
-/* line 59, /Users/amorlan/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 60, /Users/amorlan/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .caption {
   color: #999;
   padding-bottom: 10px; }
 
-/* line 65, /Users/amorlan/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 66, /Users/amorlan/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 figure > a > img {
   margin: 15px;
   border: 4px solid #2d3d4c;
@@ -2546,7 +2547,7 @@ figure > a > img {
       height: auto;
       width: 180px;
 }*/
-/* line 85, /Users/amorlan/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 86, /Users/amorlan/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .angela-gallery > figure > a:hover > img {
   -webkit-transform: scale3d(1.1, 1.1, 1.1);
   transform: scale3d(1.1, 1.1, 1.1); }
@@ -2565,7 +2566,7 @@ figure > a > img {
       -o-transition: background-color 0.15s ease 0s;
       transition: background-color 0.15s ease 0s;
 }*/
-/* line 107, /Users/amorlan/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 108, /Users/amorlan/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 a img:hover {
   box-shadow: 5px 5px 25px rgba(38, 84, 222, 0.79); }
 
