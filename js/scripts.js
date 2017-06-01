@@ -18,9 +18,10 @@ $('figure').lightGallery({
     mode: 'lg-lollipop'
 });
 //$('.angela-gallery').tubular({
- //   videoId: 'DFXzbdjOwco',
- //   mute: true
+//    videoId: 'DFXzbdjOwco',
+//    mute: true
 //});
 $('header img').attr('src', eval( 'img' + randNum ) );
+$('h1').fitText(1);
     
 

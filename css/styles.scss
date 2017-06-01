@@ -13,12 +13,11 @@ body {
     
 }
 .angela-gallery {
-    margin: 0 auto;
     width: 100%;
     max-width: 100%;
     text-align: center;
-    display: flex;
-    flex-wrap: wrap;
+    background: url("../img/light_grey.png");
+
 
 }
 
@@ -26,18 +25,21 @@ header img {
     width: 100%;
     max-width: 100%;
     
+    
 }
 
-/*header {
-    margin: 0 auto;
-}*/
 
 
 header h1 {
     font-family: 'Yesteryear', cursive;
-    color: #ecd2d2;
-    position: absolute;
-    text-align: left;
+    color: rgb(252, 249, 249);
+    background: url("../img/pink_rice.png");
+    position:relative;
+    padding:8%;
+    margin-top: 0;
+    
+    
+    
   
 }
 figure  {
@@ -45,17 +47,15 @@ figure  {
     flex-flow: wrap;
     justify-content: center;
     padding: 10px;
-    width: 100%;
-    opacity: .6;
     background: #c7c7f1;
-    margin-top: 15px;
+    margin-top: 0;
     
 }
 .caption {
-    
+    display:flex;
+    justify-content: center;
     color: #999;
-    margin-top: -5px;
-    margin-bottom: 15px;
+
     
 }
 figure > a > img  {
