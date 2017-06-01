@@ -10,17 +10,17 @@ console.log(randNum);
 //Swap Out Banner
 
 
-$(document).ready(function(){
-    $('figure').lightGallery({
-        pager: true,
-        selector: 'a',
-        thumbnail: true,
-        mode: 'lg-lollipop'
-    });
-    $('.angela-gallery').tubular({
-        videoId: 'DFXzbdjOwco',
-        mute: true
-    });
-    $('header img').attr('src', eval( 'img' + randNum ) );
-    
+
+$('figure').lightGallery({
+    pager: true,
+    selector: 'a',
+    thumbnail: true,
+    mode: 'lg-lollipop'
 });
+//$('.angela-gallery').tubular({
+ //   videoId: 'DFXzbdjOwco',
+ //   mute: true
+//});
+$('header img').attr('src', eval( 'img' + randNum ) );
+    
+
