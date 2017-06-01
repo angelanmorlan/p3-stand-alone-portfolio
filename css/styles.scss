@@ -54,12 +54,13 @@ figure  {
     background: #c7c7f1;
     margin-top: 0;
     margin-bottom: 30px;
+    padding: 1em;
 
     
 }
 .caption {
     color: #999;
-    padding-bottom: 10px;
+    padding: 10px;
 
     
 }
@@ -72,16 +73,7 @@ figure > a > img  {
       
 }
 
-/*#lightgallery > a img {
-      -webkit-transition: -webkit-transform 0.15s ease 0s;
-      -moz-transition: -moz-transform 0.15s ease 0s;
-      -o-transition: -o-transform 0.15s ease 0s;
-      transition: transform 0.15s ease 0s;
-      -webkit-transform: scale3d(1, 1, 1);
-      transform: scale3d(1, 1, 1);
-      height: auto;
-      width: 180px;
-}*/
+
 
 .angela-gallery > figure > a:hover > img {
       -webkit-transform: scale3d(1.1, 1.1, 1.1);
@@ -89,21 +81,7 @@ figure > a > img  {
     
 }
 
-/*.angela-gallery figure a:hover > img {
-      opacity: 1;
-}*/
 
-/*.angela-gallery > figure > a  {
-      background-color: rgba(0, 0, 0, 0.1);
-      bottom: 0;
-      left: 0;
-      position: absolute;
-      right: 0;
-      top: 0;
-      -webkit-transition: background-color 0.15s ease 0s;
-      -o-transition: background-color 0.15s ease 0s;
-      transition: background-color 0.15s ease 0s;
-}*/
 
 a img:hover {
       box-shadow:  5px 5px 25px rgba(38, 84, 222, 0.79);
